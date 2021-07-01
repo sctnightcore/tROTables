@@ -1177,6 +1177,7 @@
 2173#Crescent Armguard#
 2175#Esprit Shield#
 2176#Book Of Darkness#
+2177#Shield Of Death#
 2178#TE WoE Buckler#
 2179#TE WoE Shield#
 2180#TE WoE Magic Guard#
@@ -6620,6 +6621,7 @@
 19292#Costume Wildcat Knit Cap#
 19294#Costume Cyber Cat Ear Headphones (Red)#
 19295#Red Baby Dragon#
+19296#Fancy Feather Hat#
 19297#DJ Kitty#
 19300#Ruff Officer#
 19301#Beer Cap#
@@ -7007,6 +7009,8 @@
 20801#Toughen Time Keeper Manteau#
 20802#Teleport Amistr Bag#
 20804#Greed Amistr Bag#
+20805#Increase AGI Amistr Bag#
+20806# Magnum Break Amistr Bag#
 20807#Endure Amistr Bag#
 20823#Awakening Eden Group Manteau I#
 20824#Awakening Eden Group Manteau II#
@@ -7396,6 +7400,7 @@
 23945#New User Registration Box(80)#
 23946#New User Registration Box(90)#
 23947#[Not For Sale] Luxurious Dinner#
+23952#Sillit Pong Box#
 23953#Silver Dragon Scroll#
 23975#Halloween AG Scroll#
 23976#Horror Scroll#
@@ -7543,10 +7548,14 @@
 24169#Tempest Shadow Pendant#
 24170#Magic Demi-Human Shadow Weapon#
 24171#Magic Exorcist Shadow Weapon#
+24172#Magic Hunting Shadow Weapon#
 24173#Magic Insect Shadow Weapon#
 24174#Magic Fishing Shadow Weapon#
+24175#Magic Dragon Killer Shadow Weapon #
+24176#Magic Angelus Shadow Weapon#
 24177#Magic Formless Shadow Weapon#
 24178#Magic Holy Water Shadow Weapon#
+24179#Magic Caesars Shadow Weapon#
 24180#Bearer's Shadow Armor#
 24181#Bearer's Shadow Shoes#
 24182#Bearer's Shadow Shield#
@@ -7555,6 +7564,8 @@
 24185#Bearer's Shadow Pendant#
 24188#Saharic Shadow Armor#
 24190#Flame Shadow Armor#
+24196#Hasty Shadow Shoes#
+24197#Hasty Shadow Armor#
 24200#Saharic Shadow Shield#
 24202#Flame Shadow Shield#
 24212#Rookie Shadow Shoes#
@@ -7608,6 +7619,8 @@
 24277#Wizard Shadow Armor#
 24278#Sage Shadow Armor#
 24279#Hunter Shadow Armor#
+24286#Doram Magical Shadow Weapon#
+24287#Doram Physical Shadow Weapon #
 24288#Rune Knight Weapon Shadow#
 24289#Royal Guard Shadow Weapon#
 24290#Mechanic Weapon Shadow#
@@ -7622,6 +7635,8 @@
 24308#Shadow Chaser Shield Shadow#
 24309#Warlock Shadow Shield#
 24310#Sorcerer Shadow Shield#
+24316#Doram Physical Shadow Shield#
+24317#Doram Magical Shadow Shield#
 24343#Blitz Shadow Weapon#
 24344#Blitz Shadow Armor#
 24393#Physical Shadow Shoes#
@@ -7817,6 +7832,13 @@
 27107#Playing Pere Card#
 27108#Singing Pere Card#
 27109#Jitterbug Card#
+27120#Iara Card#
+27121#Piranha Card#
+27122#Curupira Card#
+27123#Toucan Card#
+27124#Jaguar Card#
+27125#Headless Mule Card#
+27126#Boitata Card#
 27157#Wood Goblin Card#
 27158#Les Card#
 27159#Uzhas Card#
@@ -8168,6 +8190,7 @@
 31760#C Back Signon Red (Middle)#
 31761#C Back Signon Blue (Middle)#
 31766#Costume Peony Hair Ornament#
+31783#Costume Doram Balloon#
 31815#Costume Angola#
 31816#Costume Three Rabbits Ribbon #
 31836#Costume Aviator Hat#
@@ -8266,6 +8289,8 @@
 100851#Anniversary Soup#
 100879#Happy Poring Scroll#
 100880#Piercing Shadow Box#
+100908#Magic Piercing Shadow Box#
+100909#Soft Feather Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
