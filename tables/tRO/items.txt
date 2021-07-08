@@ -6843,6 +6843,7 @@
 20130#Costume Whisper Tall Hat#
 20132#Costume Test Subject Aura#
 20133#Costume Poring Mascot#
+20142#Costume Machoman's Glasses#
 20166#Costume Hockey Mask#
 20167#Costume Devi Headphone#
 20168#Costume Skull hood#
@@ -6972,6 +6973,7 @@
 20598#Costume Big Black Cat#
 20599#Costume Sakura Wing#
 20606#Costume Golden Angel Wing#
+20614#Costume Ultimate Kiel Hyre's#
 20700#Egir Manteau#
 20702#TE WoE Muffler#
 20703#TE WoE Cloak#
@@ -8093,6 +8095,7 @@
 31177#Costume Tail Hat#
 31178#Costume Flame Muffler#
 31186#Costume Black Cat#
+31189#Costume Red Cat Ears Cape#
 31195#Costume Chocolate Mini Hat#
 31200#Costume Wrapping Ribbon#
 31203#Costume Taotaan#
@@ -8100,6 +8103,7 @@
 31237#Costume Pope Ribbon#
 31249#Costume Hopping Rabbit#
 31251#Costume Cat Mouth#
+31252#Costume White Cat Ears Hat#
 31255#Costume Sweetie Helmet#
 31257#Costume Poring Jars Of Clay#
 31258#Costume White Clay Filler#
