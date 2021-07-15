@@ -4724,6 +4724,8 @@
 11605#Cookies Bat#
 11607#Sweet Crepe#
 11610#Sweet Melon#
+11611#Popcorn#
+11612#Aromatic Popcorn#
 11613#Harvest Cookie#
 11616#Yummy Meat#
 11617#Dogcolate Ball#
@@ -5921,6 +5923,7 @@
 14853#[Scroll] Agi Dish10#
 14854#[Scroll] Str Dish10#
 14861#[Scroll] Ghostring Scroll#
+14862#[Scroll] Tyr's Blessing#
 14863#Fallen Angel Scroll#
 14864#Dark Feather Scroll#
 14866#[Scroll] Holy Armor Scroll#
@@ -6577,6 +6580,7 @@
 19011#Little Devil's Horn#
 19015#Costume Gemma's Hairband#
 19020#Survival Circlet#
+19024#Protect Feathers#
 19033#Ancient Decoration of Rift#
 19046#Deadly Poisonous Manteau#
 19084#Parfait V Hat#
@@ -6615,6 +6619,7 @@
 19268#Giant Snake Breath#
 19269#Angel of Happiness#
 19274#Open Air Headset#
+19277#Soda In Mouth#
 19278#Sweetie Helmet#
 19287#Costume Cat Poring Balloon#
 19291#Costume Shiba Inu#
@@ -6632,6 +6637,7 @@
 19368#Flowery Vision#
 19373#Sparkler Stick#
 19374#Sparkler Fountain#
+19381#Protect Cloth#
 19404#Biting Rideword#
 19413#SnowFlake Tiara#
 19414#Morning Poring#
@@ -7274,6 +7280,7 @@
 23224#[Not For Sale] VIT Biscuit Stick#
 23225#[Not For Sale] AGI Biscuit Stick#
 23226#[Not For Sale] INT Biscuit Stick#
+23256#Spiritual Bandage#
 23259#Strawberry Fresh Cream Cupcake#
 23260#Fruit Parfait#
 23261#Moisty Macaron#
@@ -7512,6 +7519,7 @@
 24123#Heal Shadow Weapon#
 24124#Heal Shadow Earring#
 24125#Heal Shadow Pendant#
+24129#Hiding Shadow Weapon#
 24130#Hiding Shadow Earring#
 24131#Hiding Shadow Pendant#
 24132#Cloaking Shadow Armor#
@@ -7608,6 +7616,7 @@
 24256#Knight Shadow Shoes#
 24257#Crusader Shadow Shoes#
 24258#Blacksmith Shadow Shoes#
+24259#Alchemist Shadow Shoes#
 24262#Assassin Shadow Shoes#
 24263#Rogue Shadow Shoes#
 24264#Wizard Shadow Shoes#
@@ -7616,6 +7625,7 @@
 24269#Knight Shadow Armor#
 24270#Crusader Shadow Armor#
 24271#Blacksmith Shadow Armor#
+24272#Alchemist Shadow Armor#
 24275#Assassin Shadow Armor#
 24276#Rogue Shadow Armor#
 24277#Wizard Shadow Armor#
@@ -7626,6 +7636,7 @@
 24288#Rune Knight Weapon Shadow#
 24289#Royal Guard Shadow Weapon#
 24290#Mechanic Weapon Shadow#
+24291#Geneticist Weapon Shadow#
 24294#Guillotine Cross Shadow Weapon#
 24295#Shadow Chaser Weapon Shadow#
 24296#Warlock Shadow Weapon#
@@ -7633,12 +7644,19 @@
 24301#Rune Knight Shield Shadow#
 24302#Royal Guard Shadow Shield#
 24303#Mechanic Shield Shadow#
+24304#Geneticist Shadow Shield#
 24307#Guillotine Cross Shadow Shield#
 24308#Shadow Chaser Shield Shadow#
 24309#Warlock Shadow Shield#
 24310#Sorcerer Shadow Shield#
 24316#Doram Physical Shadow Shield#
 24317#Doram Magical Shadow Shield#
+24320#Hasty Shadow Shoes II#
+24321#Bearer's Shadow Pandant II#
+24322#Gemstone Shadow Earring II#
+24323#Spellflow Shadow Shield II#
+24324#Spiritual Shadow Weapon II#
+24325#Malicious Shadow Armor II#
 24343#Blitz Shadow Weapon#
 24344#Blitz Shadow Armor#
 24393#Physical Shadow Shoes#
@@ -7783,6 +7801,9 @@
 25318#Sweetie Skin#
 25319#Ice Box#
 25320#Suspicious Melon#
+25340#Golden Corn#
+25341#Red Hot Marble #
+25342#Healthful Herb #
 25358#Retrieve Data Card#
 25359#Slightly Old Box#
 25360#Receipt#
@@ -7810,6 +7831,7 @@
 25422#White Thin Stem#
 25425#Magical Snow Flower#
 25426#Warm Cotton#
+25464#[Not For Sale]World Moving Ticket#
 25479#Dog Poison Bottle#
 25627#Gold Card#
 26100#P.Foxtail II#
@@ -8027,6 +8049,7 @@
 29227#Heal#
 29228#Steal#
 29229#Teleportation#
+29239#HIT+5#
 29302#Water property (Armor)#
 29303#Wind property (Armor)#
 29304#Earth property (Armor)#
@@ -8040,6 +8063,8 @@
 29360#Fatal (Lower)#
 29361#Fatal (Garment)#
 29362#Double Attack#
+29380#ATK + 5#
+29381#MATK + 5#
 29423#Champion Stone (Upper)#
 29424#Champion Stone (Middle)#
 29425#Champion Stone (Lower)#
@@ -8108,6 +8133,9 @@
 31257#Costume Poring Jars Of Clay#
 31258#Costume White Clay Filler#
 31259#Costume Bubble Archangeling Hairband#
+31261#Costume Soda In Mouth#
+31262#Costume Disposable 3D Glasses#
+31263#Costume Disposable Popcorn Hat#
 31295#Costume Red Wing Hat#
 31296#Costume Strawberry In Mouth#
 31297#Costume Love Berry#
@@ -8134,6 +8162,7 @@
 31398#Costume Blinking Thin Eyes#
 31406#Costume Nydhog Wig WH#
 31416#Costume Seraphim Coronet#
+31419#Costume Angel of Happiness#
 31428#Costume Panda Balloon#
 31432#Costume Luwmin Ice#
 31438#Costume Fluffy Angel Cape#
@@ -8195,12 +8224,14 @@
 31761#C Back Signon Blue (Middle)#
 31766#Costume Peony Hair Ornament#
 31783#Costume Doram Balloon#
+31803#Costume Aura of Tornado#
 31815#Costume Angola#
 31816#Costume Three Rabbits Ribbon #
 31836#Costume Aviator Hat#
 31885#Costume Cons of Earth#
 31924#Costume Blinking Blue Eyes#
 31930#Costume Standing Mic #
+31937#Costume Sweet Unicorn#
 31942#Costume Rose Quartz#
 31945#Costume Golden Angel Hairband#
 31946#Costume Frantic Looking#
@@ -8295,6 +8326,8 @@
 100880#Piercing Shadow Box#
 100908#Magic Piercing Shadow Box#
 100909#Soft Feather Scroll#
+100922#10 World Moving Ticket Box#
+100924#Pegasus Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -8343,6 +8376,7 @@
 1000000#IDTest event#
 1000467#Rebellion Pre-Register Ticket#
 1000572#1st Anniversary Job Changing Ticket#
+1000619#World Moving Ticket#
 1100000#IDTest heal#
 1200000#IDTest arrow#
 1210000#IDTest canon#
