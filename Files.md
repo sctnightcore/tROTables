@@ -1,144 +1,33 @@
 ```
-[2021-07-15_live_data_70_70_1626233922.rgz.yml]
-	- system\iteminfo.lub
-	- system\ongoingquestinfolist_true.lub
-[2021-07-15_live_data_72_72_1626239668.gpf.yml]
-	- data\texture\̽\loading00.jpg
-	- data\texture\̽\loading01.jpg
-	- data\texture\̽\loading02.jpg
-[2021-07-15_live_data_70_70_1626233922.gpf.yml]
-	- data\1@crd.gat
-	- data\1@crd.gnd
-	- data\1@crd.rsw
-	- data\LuaFiles514\Lua Files\Datainfo\LapineDdukDDakBox.lub
-	- data\LuaFiles514\Lua Files\Datainfo\tb_cashshop_banner.lub
-	- data\LuaFiles514\Lua Files\EffectTool\1@crd.lub
-	- data\LuaFiles514\Lua Files\EffectTool\comodo.lub
-	- data\LuaFiles514\Lua Files\OffsetItemPos\OffsetItemPos.lub
-	- data\cardprefixnametable.txt
-	- data\comodo.gat
-	- data\comodo.gnd
-	- data\comodo.rsw
+[2021-07-22_live_data_75_75_1626839385.gpf.yml]
+	- data\LuaFiles514\Lua Files\service_thailand\ExternalSettings_th.lub
 	- data\idnum2itemresnametable.txt
-	- data\mapNameTable.txt
-	- data\model\comodo\lava_s_01.rsm
-	- data\model\comodo\lava_s_02.rsm
-	- data\model\comodo\lava_s_03.rsm
-	- data\model\comodo\lava_s_04.rsm
-	- data\model\comodo\lava_s_05.rsm
-	- data\mp3NameTable.txt
-	- data\num2cardillustnametable.txt
+	- data\msgstringtable.txt
 	- data\num2itemresnametable.txt
-	- data\resnametable.txt
-	- data\sprite\\2.act
-	- data\sprite\\2.spr
-	- data\sprite\\aromatic_pop_corn.act
-	- data\sprite\\aromatic_pop_corn.spr
-	- data\sprite\\c_cons_of_wind.act
-	- data\sprite\\c_cons_of_wind.spr
-	- data\sprite\\c_unicorn_ornament.act
-	- data\sprite\\c_unicorn_ornament.spr
-	- data\sprite\\e_explosion.act
-	- data\sprite\\e_explosion.spr
-	- data\sprite\\e_imp.act
-	- data\sprite\\e_imp.spr
-	- data\sprite\\e_magic_plant.act
-	- data\sprite\\e_magic_plant.spr
-	- data\sprite\\e_picky.act
-	- data\sprite\\e_picky.spr
-	- data\sprite\\e_salamander.act
-	- data\sprite\\e_salamander.spr
-	- data\sprite\\elixir_bandage.act
-	- data\sprite\\elixir_bandage.spr
-	- data\sprite\\golden_corn.act
-	- data\sprite\\golden_corn.spr
-	- data\sprite\\mild_explosion.act
-	- data\sprite\\mild_explosion.spr
-	- data\sprite\\mild_imp.act
-	- data\sprite\\mild_imp.spr
-	- data\sprite\\pop_corn.act
-	- data\sprite\\pop_corn.spr
-	- data\sprite\\soda_in_mouth.act
-	- data\sprite\\soda_in_mouth.spr
-	- data\sprite\\Ʈ.act
-	- data\sprite\\Ʈ.spr
-	- data\sprite\\Ʈ2.act
-	- data\sprite\\Ʈ2.spr
-	- data\sprite\\Ƹӽ2.act
-	- data\sprite\\Ƹӽ2.spr
-	- data\sprite\\̾2.act
-	- data\sprite\\̾2.spr
-	- data\sprite\\彦2.act
-	- data\sprite\\彦2.spr
-	- data\sprite\\2.act
-	- data\sprite\\2.spr
-	- data\sprite\npc\4_m_popfesta.act
-	- data\sprite\npc\4_m_popfesta.spr
-	- data\sprite\Ʈ\EF_POPCORN\EF_POPCORN.act
-	- data\sprite\Ʈ\EF_POPCORN\EF_POPCORN.spr
-	- data\sprite\Ʈ\_ϼ.act
-	- data\sprite\Ʈ\_ϼ.spr
-	- data\sprite\Ǽ縮\\_c_cons_of_wind.act
-	- data\sprite\Ǽ縮\\_c_cons_of_wind.spr
-	- data\sprite\Ǽ縮\\_c_unicorn_ornament.act
-	- data\sprite\Ǽ縮\\_c_unicorn_ornament.spr
-	- data\sprite\Ǽ縮\\_soda_in_mouth.act
-	- data\sprite\Ǽ縮\\_soda_in_mouth.spr
-	- data\sprite\Ǽ縮\\_Ʈ.act
-	- data\sprite\Ǽ縮\\_Ʈ.spr
-	- data\texture\comodo\comodo_s_01.bmp
-	- data\texture\comodo\comodo_s_02.bmp
-	- data\texture\̽\cardbmp\1st_Anniver_Card.BMP
-	- data\texture\̽\cashshop\img_ad1.bmp
-	- data\texture\̽\collection\2.bmp
-	- data\texture\̽\collection\aromatic_pop_corn.bmp
-	- data\texture\̽\collection\c_cons_of_wind.bmp
-	- data\texture\̽\collection\c_unicorn_ornament.bmp
-	- data\texture\̽\collection\elixir_bandage.bmp
-	- data\texture\̽\collection\golden_corn.bmp
-	- data\texture\̽\collection\pop_corn.bmp
-	- data\texture\̽\collection\soda_in_mouth.bmp
-	- data\texture\̽\collection\Ʈ.bmp
-	- data\texture\̽\collection\Ʈ2.bmp
-	- data\texture\̽\collection\Ƹӽ2.bmp
-	- data\texture\̽\collection\̾2.bmp
-	- data\texture\̽\collection\彦2.bmp
-	- data\texture\̽\collection\2.bmp
-	- data\texture\̽\item\2.bmp
-	- data\texture\̽\item\aromatic_pop_corn.bmp
-	- data\texture\̽\item\c_cons_of_wind.bmp
-	- data\texture\̽\item\c_unicorn_ornament.bmp
-	- data\texture\̽\item\elixir_bandage.bmp
-	- data\texture\̽\item\golden_corn.bmp
-	- data\texture\̽\item\pop_corn.bmp
-	- data\texture\̽\item\soda_in_mouth.bmp
-	- data\texture\̽\item\Ʈ.bmp
-	- data\texture\̽\item\Ʈ2.bmp
-	- data\texture\̽\item\Ƹӽ2.bmp
-	- data\texture\̽\item\̾2.bmp
-	- data\texture\̽\item\彦2.bmp
-	- data\texture\̽\item\2.bmp
-	- data\texture\̽\loading00.jpg
-	- data\texture\̽\loading01.jpg
-	- data\texture\̽\loading02.jpg
-	- data\texture\̽\login_interface\warning.bmp
-	- data\texture\̽\login_interface\warning2.bmp
-	- data\texture\̽\map\1@crd.bmp
-	- data\texture\̽\map\comodo.bmp
-	- data\texture\̽\t_1-1.bmp
-	- data\texture\̽\t_1-2.bmp
-	- data\texture\̽\t_1-3.bmp
-	- data\texture\̽\t_1-4.bmp
-	- data\texture\̽\t_2-1.bmp
-	- data\texture\̽\t_2-2.bmp
-	- data\texture\̽\t_2-3.bmp
-	- data\texture\̽\t_2-4.bmp
-	- data\texture\̽\t_3-1.bmp
-	- data\texture\̽\t_3-2.bmp
-	- data\texture\̽\t_3-3.bmp
-	- data\texture\̽\t_3-4.bmp
-[2021-07-15_Raghash_1626233922.rgz.yml]
+	- data\sprite\\gⱳȯƼ.act
+	- data\sprite\\gⱳȯƼ.spr
+	- data\sprite\\gȯƼ.act
+	- data\sprite\\gȯƼ.spr
+	- data\texture\̽\collection\gⱳȯƼ.bmp
+	- data\texture\̽\collection\gȯƼ.bmp
+	- data\texture\̽\item\gⱳȯƼ.bmp
+	- data\texture\̽\item\gȯƼ.bmp
+	- data\texture\̽\private_airplane\bg_pay.bmp
+	- data\texture\̽\private_airplane\btn_find_normal.bmp
+	- data\texture\̽\private_airplane\btn_find_over.bmp
+	- data\texture\̽\private_airplane\btn_find_press.bmp
+	- data\texture\̽\private_airplane\btn_move_normal.bmp
+	- data\texture\̽\private_airplane\btn_move_over.bmp
+	- data\texture\̽\private_airplane\btn_move_press.bmp
+	- data\texture\̽\private_airplane\btn_share_normal.bmp
+	- data\texture\̽\private_airplane\btn_share_over.bmp
+	- data\texture\̽\private_airplane\btn_share_press.bmp
+	- data\texture\̽\private_airplane\ico_notic.bmp
+[2021-07-22_Raghash_1626839385.rgz.yml]
 	- easyanticheat\certificates
 	- easyanticheat\certificates\game.bin
 	- easyanticheat\certificates\game.cer
+[2021-07-22_live_data_75_75_1626839385.rgz.yml]
+	- system\iteminfo.lub
+	- system\privateairplane_true.lub
 ```

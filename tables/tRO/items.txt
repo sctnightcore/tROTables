@@ -6820,6 +6820,7 @@
 19991#Costume Galanthus Guard#
 19992#Costume Chilly Breath#
 19996#Costume Horse King#
+20010#Costume Rainbow Wing Ears#
 20014#Costume Lincoln Hat#
 20015#Costume Lincoln Moustache#
 20019#Costume Beret of Artist#
