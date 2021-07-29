@@ -6584,6 +6584,15 @@
 19033#Ancient Decoration of Rift#
 19046#Deadly Poisonous Manteau#
 19084#Parfait V Hat#
+19085#Sigrun's Wing#
+19087#Angel Spirit#
+19088#Binoculars #
+19089#Blinker#
+19090#Alarm Mask#
+19091#Opera Phantom Mask#
+19092#Machoman's Glasses#
+19093#Geek Glasses#
+19094#Mr. Smile#
 19095#Happy Balloon#
 19112#Tengu Scroll#
 19113#Gemini-S58 Eyes#
@@ -7500,9 +7509,13 @@
 24099#Unfrozen Shadow Weapon#
 24100#Unfrozen Shadow Earring#
 24101#Unfrozen Shadow Pendant#
+24102#Vitality Shadow Earring#
+24103#Vitality Shadow Pendant#
 24104#Neutral Shadow Weapon#
 24105#Neutral Shadow Earring#
 24106#Neutral Shadow Pendant#
+24107#Curse Lift Shadow Earring#
+24108#Curse Lift Shadow Pendant#
 24109#Caster Shadow Earring#
 24110#Caster Shadow Weapon#
 24111#Spellflow Shadow Shoes#
@@ -7623,6 +7636,8 @@
 24264#Wizard Shadow Shoes#
 24265#Sage Shadow Shoes#
 24266#Hunter Shadow Shoes#
+24267#Bard Shadow Shoes#
+24268#Dancer Shadow Shoes#
 24269#Knight Shadow Armor#
 24270#Crusader Shadow Armor#
 24271#Blacksmith Shadow Armor#
@@ -7632,6 +7647,9 @@
 24277#Wizard Shadow Armor#
 24278#Sage Shadow Armor#
 24279#Hunter Shadow Armor#
+24280#Bard Shadow Armor#
+24281#Dancer Shadow Armor#
+24285#Ninja Shadow Weapon#
 24286#Doram Magical Shadow Weapon#
 24287#Doram Physical Shadow Weapon #
 24288#Rune Knight Weapon Shadow#
@@ -7650,6 +7668,7 @@
 24308#Shadow Chaser Shield Shadow#
 24309#Warlock Shadow Shield#
 24310#Sorcerer Shadow Shield#
+24314#Ninja Shadow Shield#
 24316#Doram Physical Shadow Shield#
 24317#Doram Magical Shadow Shield#
 24320#Hasty Shadow Shoes II#
@@ -7691,6 +7710,7 @@
 25015#EXP Stone (Lower)#
 25016#ATK Stone (Lower)#
 25017#MATK Stone (Lower)#
+25041#Ghost Plunger#
 25043#Thorn Vines Pipe#
 25044#Hard Thorn Vines#
 25045#High Quality Cloth#
@@ -8208,6 +8228,7 @@
 31670#Costume Miyabi Doll Hair#
 31672#Costume Mermaid Wig#
 31673#Costume Picnic Basket#
+31684#Costume Kururinpa Tails#
 31695#Costume Tree Sprout#
 31698#Costume Red Riding Hood#
 31699#Costume Smiling Eyes#
@@ -8329,6 +8350,7 @@
 100909#Soft Feather Scroll#
 100922#10 World Moving Ticket Box#
 100924#Pegasus Scroll#
+100940#Gothic Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -8367,6 +8389,7 @@
 450000#IDTest armor#
 450131#Fallen Angel Armor#
 480058#Costume Wavy Golden Angel Wings#
+480095#Costume Giant White Rabbit#
 480120#Guardian Soul#
 490033#Fallen Angel's Tear#
 490147#1st Anniversary Ring#
