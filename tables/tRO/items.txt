@@ -3304,6 +3304,7 @@
 5941#Joystick Hat#
 5942#Lovegame Hat#
 5944#Bandit Hood#
+5946#Drama Clockwork#
 5980#Costume Classical Feather Hat#
 6000#Ashes of Darkness#
 6001#Essence of Fire#
@@ -6622,6 +6623,7 @@
 19240#Toy Syringe#
 19243#Indigo Rear Ribbon#
 19244#Rosary Necklace#
+19249#Spell Circuit#
 19250#White Clay Filler#
 19251#Bubble Archangeling Hairband#
 19263#General Helm#
@@ -7631,6 +7633,7 @@
 24257#Crusader Shadow Shoes#
 24258#Blacksmith Shadow Shoes#
 24259#Alchemist Shadow Shoes#
+24260#Priest Shadow Shoes#
 24262#Assassin Shadow Shoes#
 24263#Rogue Shadow Shoes#
 24264#Wizard Shadow Shoes#
@@ -7642,6 +7645,7 @@
 24270#Crusader Shadow Armor#
 24271#Blacksmith Shadow Armor#
 24272#Alchemist Shadow Armor#
+24273#Priest Shadow Armor#
 24275#Assassin Shadow Armor#
 24276#Rogue Shadow Armor#
 24277#Wizard Shadow Armor#
@@ -7649,6 +7653,7 @@
 24279#Hunter Shadow Armor#
 24280#Bard Shadow Armor#
 24281#Dancer Shadow Armor#
+24282#Super Novice Shadow Weapon#
 24285#Ninja Shadow Weapon#
 24286#Doram Magical Shadow Weapon#
 24287#Doram Physical Shadow Weapon #
@@ -7671,6 +7676,7 @@
 24314#Ninja Shadow Shield#
 24316#Doram Physical Shadow Shield#
 24317#Doram Magical Shadow Shield#
+24318#Super Novice Shadow Shield#
 24320#Hasty Shadow Shoes II#
 24321#Bearer's Shadow Pandant II#
 24322#Gemstone Shadow Earring II#
@@ -7890,6 +7896,13 @@
 27160#Baba Yaga Card#
 27161#Mavka Card#
 27162#Gopinich Card#
+27163#Faceworm Card#
+27164#Faceworm Queen Card#
+27165#Dark Faceworm Card#
+27166#Faceworm Egg Card#
+27167#Faceworm Larva Card#
+27168#Irene High Elder Card#
+27169#Payon Soldier Card#
 27211#Sealed Baphomet Card#
 27212#Sealed Maya Card#
 28000#Thanos Katar#
@@ -7941,6 +7954,7 @@
 28422#Shining Twig Charm#
 28423#Fresh Tuna Charm#
 28424#Plumpy Worm Charm#
+28430#Arch Bishop Ring#
 28439#Sea Otter Mini Fan#
 28440#Fur Seal Mini Fan#
 28443#ATK Eden Group Ring I#
@@ -8351,6 +8365,7 @@
 100922#10 World Moving Ticket Box#
 100924#Pegasus Scroll#
 100940#Gothic Scroll#
+100946#Gold Saint Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
