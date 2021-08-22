@@ -1353,6 +1353,8 @@
 2365#Orleans's Gown#
 2366#Divine Cloth#
 2367#Sniping Suit#
+2369#Freyja Overcoat#
+2370#Used Mage Coat#
 2371#Pantie#
 2372#Mage Coat#
 2373#Holy Robe#
@@ -3372,8 +3374,10 @@
 6100#Damp Darkness#
 6104#Big Cell#
 6105#Morning dew#
+6106#Well Ripened Berry#
 6107#Sunset on the Rock#
 6108#Apple Pudding#
+6109#Plant Neutrient#
 6110#Vital flower#
 6111#Mystic Stone#
 6112#Fresh Plant#
@@ -4545,7 +4549,12 @@
 9037#Wanderer Egg#
 9042#Loli Ruri Egg#
 9045#Whisper Egg#
+9047#Wicked Nymph Egg#
+9048#Miyabi Doll Egg#
+9051#Stone Shooter Egg#
 9052#Incubus Egg#
+9053#Golem Egg#
+9054#Nightmare Terror Egg#
 9055#Succubus Egg#
 9056#Imp Egg#
 9058#Snow Rabbit Egg#
@@ -4555,8 +4564,25 @@
 9070#Savage Egg#
 9071#Grand Peco Peco Egg#
 9087#High Orc Egg#
+9095#Nine Tail Egg#
+9096#Cat o' Nine Tails Egg#
+9099#Teddy Bear Egg#
+9100#Gremlin Egg#
 9101#Portable cage for Scatleton#
+9102#Mummy Egg#
+9103#Willow Egg#
+9104#Roween Egg#
+9105#Hodremlin Egg#
+9107#Ancient Mummy Egg#
+9108#Abandoned Teddy Bear Egg#
+9111#Phreeoni Egg#
+9112#Moonlight Egg#
 9113#Skelion Egg#
+9115#Bacsojin Egg#
+9116#Rigid Nightmare Terror Egg#
+9119#Alicel Egg#
+9122#Gloom Under Night Egg#
+9131#Fire Golem Egg#
 9550#Gemstone of Time#
 9808#Old Hat Box#
 9817#Adventurer Scroll#
@@ -4616,6 +4642,8 @@
 10018#Monkey Circlet#
 10019#Red Scarf#
 10020#Grave Keeper's Sword#
+10024#Fashionable Glasses#
+10037#Black Butterfly Mask#
 10038#Horn Protector#
 10040#Red Bell Necklace#
 10042#Dark Mane#
@@ -4999,7 +5027,11 @@
 12360#Very Red Juice#
 12361#Delicious Shaved Ice#
 12363#Fit Pipe#
+12366#Girl's Doll#
+12369#Oilpalm Coconut#
 12370#Gril's Naivety#
+12371#Magical Lithography#
+12372#Hell Contract#
 12373#Boy's Naivety#
 12374#Flaming Ice#
 12375#Akaraje#
@@ -7270,6 +7302,9 @@
 23175#Uniform Repair Kit#
 23177#[Not For Sale] Kafra Card#
 23178#Kafra Box#
+23187#Sap Jelly#
+23188#Aircraft Part#
+23189#Small Doll Needle#
 23198#Premium Wooden Box#
 23199#Premium Golden Box#
 23200#Premium Platinum Box#
@@ -7293,6 +7328,8 @@
 23225#[Not For Sale] AGI Biscuit Stick#
 23226#[Not For Sale] INT Biscuit Stick#
 23256#Spiritual Bandage#
+23257#Old Tree's Dew#
+23258#Stinky Rotten Meat#
 23259#Strawberry Fresh Cream Cupcake#
 23260#Fruit Parfait#
 23261#Moisty Macaron#
@@ -7390,6 +7427,7 @@
 23581#Adventurer Box(90)#
 23582#[Not For Sale] Unlimited Fly Wing 7day Box#
 23623#Lucky Girl Scroll#
+23629#Costume Enchant Stone Box 14#
 23647#Merchant Bell#
 23648#Kafra Bell#
 23660#Dog Poison Bottle-Z#
@@ -7810,6 +7848,9 @@
 25227#Heal Stone(Lower)#
 25228#Teleportation Stone(Lower)#
 25229#Steal Stone(Lower)#
+25231#Suspicious Bottle#
+25232#Cheap Lubricant#
+25233#Cotton Tuft#
 25240#Certificate of Independence#
 25245#Small pile of bones#
 25251#Fermented Grapes#
@@ -7834,6 +7875,9 @@
 25358#Retrieve Data Card#
 25359#Slightly Old Box#
 25360#Receipt#
+25375#Essence of Powerful Soul#
+25376#Q-Pet Coin#
+25377#Luxurious Pet Food#
 25390#Captured Savage#
 25391#Goodly Bough#
 25392#Free Pass Ticket#
@@ -7858,6 +7902,18 @@
 25422#White Thin Stem#
 25425#Magical Snow Flower#
 25426#Warm Cotton#
+25445#Lord Knight Stone (Upper)#
+25446#Lord Knight Stone (Middle)#
+25447#Lord Knight Stone (Lower)#
+25448#Rune Knight Stone (Garment)#
+25449#Genetic Stone (Garment)#
+25450#Creator Stone (Upper)#
+25451#Creator Stone (Middle)#
+25452#Creator Stone (Lower)#
+25453#High Wizard Stone (Upper)#
+25454#High Wizard Stone (Middle)#
+25455#High Wizard Stone (Lower)#
+25456#Warlock Stone (Garment)#
 25464#[Not For Sale]World Moving Ticket#
 25479#Dog Poison Bottle#
 25627#Gold Card#
@@ -8112,6 +8168,18 @@
 29433#Scholar Stone (Middle)#
 29434#Scholar Stone (Lower)#
 29435#Sorcerer Stone (Garment)#
+29460#Lord Knight Stone (Upper)#
+29461#Lord Knight Stone (Middle)#
+29462#Lord Knight Stone (Lower)#
+29463#Rune Knight Stone (Garment)#
+29464#Creator Stone (Upper)#
+29465#Creator Stone (Middle)#
+29466#Creator Stone (Lower)#
+29467#Genetic Stone (Garment)#
+29468#High Wizard Stone (Upper)#
+29469#High Wizard Stone (Middle)#
+29470#High Wizard Stone (Lower)#
+29471#Warlock Stone (Garment)#
 31016#Decorated Evil Tree Card#
 31017#Vicious Cookie Card#
 31018#Evil Dwelling Box Card#
@@ -8195,7 +8263,8 @@
 31395#Costume Book Of Magic#
 31396#Costume Sorcerer Hood#
 31398#Costume Blinking Thin Eyes#
-31406#Costume Nydhog Wig WH#
+31405#Costume Eleanor's Yellow Wig#
+31406#Costume Nidhog's White Wig#
 31416#Costume Seraphim Coronet#
 31419#Costume Angel of Happiness#
 31428#Costume Panda Balloon#
@@ -8210,7 +8279,7 @@
 31463#Costume Flying Drone#
 31472#Costume Fairy Feathers#
 31473#Costume Tipsy#
-31479#Costume ManyStars#
+31479#Costume Many Stars#
 31481#Costume CatCoffeeCup#
 31497#Costume Flowery Vision#
 31498#Costume Elephangel#
@@ -8250,6 +8319,7 @@
 31721#Costume Resonate Taego#
 31728#Costume Nobility Hat#
 31731#Costume Snack Party#
+31737#Costume Wings of Lucifer#
 31754#C Back Signon Purple (Middle)#
 31755#C Back Signon Orange (Middle)#
 31756#C Back Signon White (Middle)#
@@ -8260,9 +8330,11 @@
 31761#C Back Signon Blue (Middle)#
 31766#Costume Peony Hair Ornament#
 31783#Costume Doram Balloon#
+31798#Costume Baby Panda#
 31803#Costume Aura of Tornado#
 31815#Costume Angola#
 31816#Costume Three Rabbits Ribbon #
+31831#Costume Disguise Overcoat#
 31836#Costume Aviator Hat#
 31885#Costume Cons of Earth#
 31924#Costume Blinking Blue Eyes#
@@ -8277,6 +8349,7 @@
 31972#Costume Purificatory Mask#
 32004#Probation Royal Guard Lance#
 100000#IDTest Special#
+100054#Shadow Transcendental Time Box#
 100061#[Not For Sale] Red Booster#
 100083#Korean Style Apple Hair Box (Middle)#
 100171#Cannon Ball Box#
@@ -8390,22 +8463,32 @@
 200099#Infinity Box#
 200100#Unlimited Box#
 200103#Small Mana Potion Package#
+200147#Stone Coin Package I V.2#
+200148#Stone Coin Package II V.2#
+200149#Stone Coin Package III V.2#
 300000#IDTest Card#
 300291#1st Anniversary Card#
 400020#Costume Beachball #
 400043#Fallen Angel Hairband#
 400129#Costume Puriku Cap#
+400163#Costume Whale Cap#
 410012#EXP Advicer#
 410048#Costume Tiger#
 410050#Costume Puriku White Tea#
 420014#Costume Japanese Hair#
 420016#Costume Katashiro Flying#
+420027#Costume Fish Bone Hair#
+420044#Costume White Sailor Collar#
+420047#Costume Honorable Knight's Cloak#
 440000#Costume Shark Hat#
 450000#IDTest armor#
 450131#Fallen Angel Armor#
 480058#Costume Wavy Golden Angel Wings#
 480095#Costume Giant White Rabbit#
+480096#Costume Haori Coat#
 480120#Guardian Soul#
+480126#Costume Giant Shark#
+480127#Costume Hooked Straw Hat#
 490033#Fallen Angel's Tear#
 490147#1st Anniversary Ring#
 500000#IDTest weapon#
