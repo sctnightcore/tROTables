@@ -700,6 +700,7 @@
 1438#Thanos Spear#
 1441#Blue Spear#
 1443#Spear of Crimson#
+1447#Poison Forged Spear#
 1450#Vicious Mind Lance#
 1451#Guisarme#
 1452#Guisarme#
@@ -3823,6 +3824,7 @@
 6956#Captured Sheep#
 6957#Soft Wool#
 6958#Lamb Horn#
+6959#Costume Ticket#
 6960#Aerial Fortress Key#
 6961#Huge Metal Scrap#
 6962#Old Fuel#
@@ -5468,6 +5470,7 @@
 13127#Revolver of Crimson#
 13128#Vicious Mind Revolver#
 13136#Probation Revolver#
+13138#Dark Rose#
 13150#Branch#
 13151#Cyclone#
 13152#Cyclone#
@@ -5633,6 +5636,9 @@
 13451#Blue Sword#
 13454#Saber of Crimson#
 13455#Vicious Mind Sabre#
+13460#Sealed Magic Sword#
+13461#Sealed Evil Sword#
+13462#Sealed Maximum Sword#
 13502#Drooping Kitty Box#
 13516#Royal Jelly Box#
 13517#Yggdrasilberry Box#
@@ -6075,6 +6081,8 @@
 15150#White Shirt#
 15151#White Eco Shirt#
 15156#Elegant Doram Suit#
+15163#Agenda Robe#
+15164#Consultation Robe#
 15167#Toughen Time Keeper Robe#
 15169#Kardui Robe#
 15181#Awakening Eden Group Uniform I#
@@ -6083,8 +6091,10 @@
 15184#Awakening Eden Group Uniform IV#
 15185#Awakening Eden Group Uniform V#
 15186#Kafra Uniform#
+15212#YSF01 Plate#
 15278#Soaring Physical Armor#
 15279#Robust Magical Armor#
+15280#Critical Hit Shadow Armor#
 15343#Supplement Part Str#
 15344#Upgrade Part - Plate#
 15346#Unexpected Fortune Armor#
@@ -6099,6 +6109,7 @@
 15358#Angeling Balloon#
 15359#Ghostring Balloon#
 15360#Archangeling Balloon#
+15888#Costume Dragon Claw Helm#
 16000#Erde#
 16001#Red Square Bag#
 16003#Carga Mace#
@@ -6326,6 +6337,7 @@
 17569#Dungeon Ticket 1 Hour Box#
 17570#Dungeon Ticket 3 Hour Box#
 17608#Unlimited Giant Fly Wing 1 day box#
+17634#Costume Ticket Box#
 17791#Slivervine Box#
 17920#Merchant Bell Box#
 17921#Kafra Bell Box#
@@ -6629,6 +6641,7 @@
 19095#Happy Balloon#
 19112#Tengu Scroll#
 19113#Gemini-S58 Eyes#
+19115#Republic Hat#
 19119#Toughen Time Keeper Hat#
 19126#Magical Booster#
 19132#Masquerade#
@@ -6977,6 +6990,8 @@
 20451#Costume Sky Of Memory#
 20452#Costume berry Prince Crown#
 20453#Costume Hat of Bundle#
+20455#Costume Republic Hat#
+20456#Costume Combat Vestige#
 20457#Costume Feather Fluttering#
 20458#Costume Wild Poring Rider#
 20459#Costume Valhalla Idol#
@@ -7073,6 +7088,7 @@
 20842#Candy Bag Backpack (Physical)#
 20843#Candy Bag Backpack (Range)#
 20844#Candy Bag Backpack (Magical)#
+20856#YSF01 Manteau#
 20862#EXE Backpack#
 20985#Costume Gourd Bottle#
 20988#Costume Mechanical Butterfly#
@@ -7142,6 +7158,7 @@
 22124#Awakening Eden Group Boots III#
 22125#Awakening Eden Group Boots IV#
 22126#Awakening Eden Group Boots V#
+22141#YSF01 Greaves#
 22507#Old Scroll#
 22508#Mark Of Eden Group#
 22511#Fenrir's Power Scroll#
@@ -7196,6 +7213,7 @@
 22613#Contaminated Reagents#
 22658#Braised ShortRibs#
 22659#Braised Spareribs#
+22668#Guyak Pudding Box#
 22685#Solo Christmas Gift#
 22686#Solo Cookie#
 22691#Record Fragment#
@@ -7274,6 +7292,9 @@
 23050#[Not For Sale] Magical Candy#
 23058#Costume Enchant Stone Box 9#
 23061#Sharp Arrow Quiver#
+23076#Build Up Potion SS#
+23077#Build Up Potion SC#
+23078#Build Up Potion AC#
 23079#Strawberry Cream Cake#
 23081#Kunai Scroll of Flame#
 23082#Kunai Scroll of Icicle#
@@ -7281,6 +7302,7 @@
 23084#Kunai Scroll of Soil#
 23085#Kunai Scroll of Poison#
 23086#Costume Enchant Stone Box 10#
+23087#Small Leather Bag#
 23097#Time Guardian Box (2)#
 23123#Flare Bullet Case#
 23124#Lightning Bullet Case#
@@ -7407,6 +7429,10 @@
 23504#[Not for Sale] 20 Orange Potion Box#
 23505#[Not for Sale] 20 Yellow Potion Box#
 23524#Costume Enchant Stone Box 13#
+23538#Cursed Knight's Shield Box#
+23545#Silver Angel Idol#
+23546#Cursed Blood#
+23547#Gold Angel Idol#
 23548#Ice Candy#
 23549#Snow Cookie#
 23550#Winter Cookie#
@@ -7433,6 +7459,7 @@
 23660#Dog Poison Bottle-Z#
 23665#Physical Magical Mix Box#
 23668#Kingbird Ancient Box#
+23669#Critical Hit Mix#
 23672#Evil Black Scroll#
 23673#White Black Scroll#
 23706#Charleston Upgrade Part (Melee)#
@@ -7498,6 +7525,7 @@
 24043#Dexterous Shadow Weapon#
 24044#Vital Shadow Shield#
 24045#Athletic Shadow Shoes#
+24047#Rapid Shadow Pendant#
 24048#Caster Shadow Pendant#
 24049#Hard Shadow Earring#
 24050#Wise Shadow Earring#
@@ -7573,6 +7601,7 @@
 24123#Heal Shadow Weapon#
 24124#Heal Shadow Earring#
 24125#Heal Shadow Pendant#
+24128#Hiding Shadow Shield#
 24129#Hiding Shadow Weapon#
 24130#Hiding Shadow Earring#
 24131#Hiding Shadow Pendant#
@@ -7699,6 +7728,7 @@
 24289#Royal Guard Shadow Weapon#
 24290#Mechanic Weapon Shadow#
 24291#Geneticist Weapon Shadow#
+24292#Arch Bishop Shadow Weapon#
 24294#Guillotine Cross Shadow Weapon#
 24295#Shadow Chaser Weapon Shadow#
 24296#Warlock Shadow Weapon#
@@ -7707,6 +7737,7 @@
 24302#Royal Guard Shadow Shield#
 24303#Mechanic Shield Shadow#
 24304#Geneticist Shadow Shield#
+24305#Arch Bishop Shadow Shield#
 24307#Guillotine Cross Shadow Shield#
 24308#Shadow Chaser Shield Shadow#
 24309#Warlock Shadow Shield#
@@ -7721,6 +7752,8 @@
 24323#Spellflow Shadow Shield II#
 24324#Spiritual Shadow Weapon II#
 24325#Malicious Shadow Armor II#
+24332#Critical Shadow Shield#
+24333#Critical Shadow Shoes#
 24343#Blitz Shadow Weapon#
 24344#Blitz Shadow Armor#
 24393#Physical Shadow Shoes#
@@ -7827,6 +7860,23 @@
 25148#Cute Starved Demon Doll#
 25149#Doll With Warm Scarf#
 25150#Alice Dakimakura#
+25151#Rachel's Revolver#
+25152#Cherished Bouquet#
+25153#Broken Gun Wreck#
+25154#Antique Gunpowder#
+25155#Schwartz's Honor Token#
+25156#Piece of Chimera#
+25157#Fallen Leaves Branch#
+25158#Core Jelly#
+25159#Heart Hunter's Seal#
+25160#Borrowed Book#
+25161#Delicious Handmade Cookie#
+25162#Crispy Anchovy#
+25163#Arms Shop Ad#
+25164#Fresh Tea Leaves#
+25165#High Class Tea#
+25166#Very Shining Ring#
+25167#Old Letter#
 25170#Minor Casting Stone (Garment)#
 25171#Experience Stone (Upper)#
 25172#Variable Casting Stone(Upper)#
@@ -7836,6 +7886,13 @@
 25176#Blue Aura Effect (Middle)#
 25177#Shadow Effect (Middle)#
 25178#Pink Glow Effect(Middle)#
+25179#Blessing Star#
+25180#Old Couple Ring#
+25181#Wood Rosary#
+25182#Assassin's Mark Dagger#
+25183#Decorated Archer's Thimble#
+25184#Portable Sewingbox#
+25185#Locket Pendant#
 25187#Slug Bullet#
 25188#Handkerchief of Girl#
 25205#Shrink Effect (Lower)#
@@ -7917,6 +7974,7 @@
 25464#[Not For Sale]World Moving Ticket#
 25479#Dog Poison Bottle#
 25627#Gold Card#
+25736#Jeremy's Beauty Coupon II#
 26100#P.Foxtail II#
 26101#P.Foxtail III#
 26111#Metal Foxtail#
@@ -7946,6 +8004,12 @@
 27124#Jaguar Card#
 27125#Headless Mule Card#
 27126#Boitata Card#
+27147#Human Chimera Card#
+27148#Material Chimera Card#
+27149#Heart Hunter Card#
+27150#Enchanted Venomous Chimera Card#
+27151#Heart Hunter Evil Card#
+27152#Cutie Card#
 27157#Wood Goblin Card#
 27158#Les Card#
 27159#Uzhas Card#
@@ -7982,6 +8046,10 @@
 28216#Probation Gatling Gun#
 28217#Probation Grenade Launcher#
 28218#Probation Shotgun#
+28223#Finisher#
+28224#Dustfire#
+28225#Burning Rose#
+28226#Avenger#
 28310#Sarah's Left Earring#
 28311#Sarah's Right Earring#
 28326#Broken Chip 01#
@@ -8010,6 +8078,8 @@
 28422#Shining Twig Charm#
 28423#Fresh Tuna Charm#
 28424#Plumpy Worm Charm#
+28425#Mercenary Ring Type A#
+28426#Mercenary Ring Type B#
 28430#Arch Bishop Ring#
 28439#Sea Otter Mini Fan#
 28440#Fur Seal Mini Fan#
@@ -8070,7 +8140,11 @@
 28726#Probation Shadow Chaser Dagger#
 28900#Royal Guard Shield#
 28902#Mad Bunny#
+28913#Ultralight Magic Shield#
 28914#Toughen Time Keeper Shield#
+28942#Cursed Knight's Shield#
+28945#Bloody Knight's Shield#
+28946#Purified Knight's Shield#
 28953#Poring Combat Shield#
 29000#Rune of Intelligence Lv 1#
 29001#Rune of Intelligence Lv 2#
@@ -8439,6 +8513,7 @@
 100924#Pegasus Scroll#
 100940#Gothic Scroll#
 100946#Gold Saint Scroll#
+101049#Devil Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -8467,6 +8542,7 @@
 200148#Stone Coin Package II V.2#
 200149#Stone Coin Package III V.2#
 300000#IDTest Card#
+300209#Sealed Nightmare Amon Ra Card#
 300291#1st Anniversary Card#
 400020#Costume Beachball #
 400043#Fallen Angel Hairband#
@@ -8475,17 +8551,20 @@
 410012#EXP Advicer#
 410048#Costume Tiger#
 410050#Costume Puriku White Tea#
+410061#Costume Deviruchi Apron#
 420014#Costume Japanese Hair#
 420016#Costume Katashiro Flying#
 420027#Costume Fish Bone Hair#
 420044#Costume White Sailor Collar#
 420047#Costume Honorable Knight's Cloak#
+420053#Costume Shadow Devil#
 440000#Costume Shark Hat#
 450000#IDTest armor#
 450131#Fallen Angel Armor#
 480058#Costume Wavy Golden Angel Wings#
 480095#Costume Giant White Rabbit#
 480096#Costume Haori Coat#
+480107#Costume Kings Twin Sword#
 480120#Guardian Soul#
 480126#Costume Giant Shark#
 480127#Costume Hooked Straw Hat#
