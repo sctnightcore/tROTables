@@ -6641,6 +6641,9 @@
 19093#Geek Glasses#
 19094#Mr. Smile#
 19095#Happy Balloon#
+19097#Piamette Ribbon#
+19098#Piamette Hood#
+19111#Laser of Eagle#
 19112#Tengu Scroll#
 19113#Gemini-S58 Eyes#
 19115#Republic Hat#
@@ -6973,6 +6976,7 @@
 20347#Costume Poring Pirate Hat#
 20349#Costume FlyingGalapago#
 20374#Costume Mechanical Plant Hat#
+20381#Costume Steampunk Hat#
 20395#Costume Black Witch Hat#
 20396#Costume Nong Tonmai#
 20397#Costume Jakk#
@@ -7095,6 +7099,8 @@
 20862#EXE Backpack#
 20985#Costume Gourd Bottle#
 20988#Costume Mechanical Butterfly#
+20989#Costume Wind-up Screw#
+20990#Costume Rotating Gears#
 21000#Upgrade Twohand Sword#
 21001#Bellum Claymore#
 21002#Bellum Katzbalger#
@@ -7353,6 +7359,7 @@
 23224#[Not For Sale] VIT Biscuit Stick#
 23225#[Not For Sale] AGI Biscuit Stick#
 23226#[Not For Sale] INT Biscuit Stick#
+23247#Status Shadow Item Combiner#
 23256#Spiritual Bandage#
 23257#Old Tree's Dew#
 23258#Stinky Rotten Meat#
@@ -7662,10 +7669,12 @@
 24185#Bearer's Shadow Pendant#
 24188#Saharic Shadow Armor#
 24190#Flame Shadow Armor#
+24194#Geist Shadow Armor#
 24196#Hasty Shadow Shoes#
 24197#Hasty Shadow Armor#
 24200#Saharic Shadow Shield#
 24202#Flame Shadow Shield#
+24206#Geist Shadow Shield#
 24212#Rookie Shadow Shoes#
 24213#Rookie Shadow Shield#
 24214#Advanced Shadow Shoes#
@@ -7761,8 +7770,12 @@
 24323#Spellflow Shadow Shield II#
 24324#Spiritual Shadow Weapon II#
 24325#Malicious Shadow Armor II#
+24326#Sigrun Shadow Armor#
+24327#Sigrun Shadow Shield#
 24332#Critical Shadow Shield#
 24333#Critical Shadow Shoes#
+24339#Almighty Shadow Earring#
+24340#Almighty Shadow Pandant#
 24343#Blitz Shadow Weapon#
 24344#Blitz Shadow Armor#
 24393#Physical Shadow Shoes#
@@ -8529,6 +8542,8 @@
 101057#Virgo Scroll#
 101079#Battle Manual 200#
 101080#Battle Manual 200 Box#
+101081#Steampunk Scroll#
+101084#Limited Gacha Gift Box#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -8556,6 +8571,7 @@
 200147#Stone Coin Package I V.2#
 200148#Stone Coin Package II V.2#
 200149#Stone Coin Package III V.2#
+200159#Sealed Mob Scarf Box#
 300000#IDTest Card#
 300209#Sealed Nightmare Amon Ra Card#
 300291#1st Anniversary Card#
@@ -8570,9 +8586,11 @@
 420014#Costume Japanese Hair#
 420016#Costume Katashiro Flying#
 420027#Costume Fish Bone Hair#
+420033#Costume Airy Twin Tails (White)#
 420044#Costume White Sailor Collar#
 420047#Costume Honorable Knight's Cloak#
 420053#Costume Shadow Devil#
+420089#[Rental] Sealed Mob Scarf#
 440000#Costume Shark Hat#
 450000#IDTest armor#
 450131#Fallen Angel Armor#
