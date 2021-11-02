@@ -1118,6 +1118,7 @@
 2026#Vicious Mind Staff#
 2027#Sunflower Kid#
 2040#Probation Staff#
+2048#Aeon Staff#
 2101#Guard#
 2102#Guard#
 2103#Buckler#
@@ -1618,7 +1619,7 @@
 2702#Bison Horn#
 2703#Expert Ring#
 2707#GUSLI#
-2710#Bloody Iron Ball#
+2710#Bloody Shackle Ball#
 2711#Spiritual Ring#
 2715#Skull Ring#
 2716#Librarian Glove#
@@ -3699,6 +3700,7 @@
 6651#Rusty Bracelet#
 6652#Old Photo Album#
 6653#Old Pill#
+6658#Halloween Coin#
 6665#RWC Initialization Coupon#
 6671#Geffen Magic Tournament Coin#
 6672#Gray Shard#
@@ -5640,6 +5642,7 @@
 13460#Sealed Magic Sword#
 13461#Sealed Evil Sword#
 13462#Sealed Maximum Sword#
+13485#Red Lotus Sword#
 13502#Drooping Kitty Box#
 13516#Royal Jelly Box#
 13517#Yggdrasilberry Box#
@@ -5735,7 +5738,7 @@
 13779#Evil Wing Ears Box#
 13780#Dark Blindfold Box#
 13782#Corsair Box#
-13783#Bloody Iron Ball Box#
+13783#Bloody Shackle Ball Box#
 13784#Spiritual Ring Box#
 13804#I Love You Firecracker Box#
 13805#Whiteday Firecracker Box#
@@ -6347,6 +6350,7 @@
 17980#Limit Power Booster Package#
 17982#Infinity Package#
 17986#Unlimited Package#
+17999#Inventory Expansion Coupon Box#
 18000#Cannon Ball#
 18001#Holy Cannon Ball#
 18002#Dark Cannon Ball#
@@ -6504,7 +6508,7 @@
 18736#Unknown request#
 18737#Fortier Masque#
 18740#Costume Hair Of The Strong#
-18742#Costume MoonStar Accessory#
+18742#Costume Moon and Stars#
 18744#Costume Twilight#
 18749#Majoruros Horn#
 18750#Poker Card In Mouth#
@@ -6673,6 +6677,7 @@
 19240#Toy Syringe#
 19243#Indigo Rear Ribbon#
 19244#Rosary Necklace#
+19246#Royal Guard Necklace#
 19249#Spell Circuit#
 19250#White Clay Filler#
 19251#Bubble Archangeling Hairband#
@@ -6702,7 +6707,6 @@
 19404#Biting Rideword#
 19413#SnowFlake Tiara#
 19414#Morning Poring#
-19424#Costume Master Cat#
 19507#Costume Fine Sun#
 19509#Costume Butterfly Wing Ear#
 19510#Costume Nut On Head#
@@ -6846,6 +6850,7 @@
 19871#Costume Musical Decoration#
 19876#Costume Bunny Top Hat#
 19893#Costume Fasolla Magic Hat#
+19903#Costume: Witch's Pumpkin Hat#
 19912#Costume Cat Eye#
 19914#Felrock’s Hat#
 19922#Costume Noah Hat#
@@ -7033,11 +7038,14 @@
 20528#Costume Gold Butterfly Wing#
 20535#Costume: Digital Space#
 20548#Costume Popping Poring Aura#
+20556#Costume Aura of Night#
+20567#Costume Aura of Darkness#
 20575#Costume Backpack (Black)#
 20579#Costume Raphael's Wings#
 20582#Costume Bear Backpack #
 20586#Costume Loli Ruri's Crescent#
 20587#Costume Light Darkness Wing#
+20588#Costume Broom of Witch#
 20590#Costume Evil Druid Cross#
 20591#Costume Bow on Back#
 20593#Costume Ice Wing#
@@ -7116,6 +7124,7 @@
 21016#Vicious Mind Two-Handed Sword#
 21018#Lindy Hop#
 21030#Probation Knight Two-Handed Sword#
+21038#Oriental Sword#
 21206#Costume Nut Cracker#
 22000#Temporal Str Boots#
 22001#Temporal Int Boots#
@@ -7168,6 +7177,7 @@
 22125#Awakening Eden Group Boots IV#
 22126#Awakening Eden Group Boots V#
 22141#YSF01 Greaves#
+22171#Ancient Hero Boots#
 22507#Old Scroll#
 22508#Mark Of Eden Group#
 22511#Fenrir's Power Scroll#
@@ -7258,6 +7268,7 @@
 22832#Maya 80Lv Box#
 22833#Maya 99Lv Box#
 22838#Something Candy Holder#
+22841#Pumpkin Candy#
 22847#Prontera Badge#
 22848#Prison Key#
 22849#Prontera Temporal Crystal#
@@ -7359,7 +7370,11 @@
 23224#[Not For Sale] VIT Biscuit Stick#
 23225#[Not For Sale] AGI Biscuit Stick#
 23226#[Not For Sale] INT Biscuit Stick#
+23236#Class Shadow Box (Weapon)#
+23241#Class Shadow Box (Earring)#
 23247#Status Shadow Item Combiner#
+23249#Bearer's Shadow Box#
+23250#Compose Shadow Box#
 23256#Spiritual Bandage#
 23257#Old Tree's Dew#
 23258#Stinky Rotten Meat#
@@ -7473,6 +7488,7 @@
 23669#Critical Hit Mix#
 23672#Evil Black Scroll#
 23673#White Black Scroll#
+23682#Costume Enchant Stone Box 15#
 23706#Charleston Upgrade Part (Melee)#
 23707#Charleston Upgrade Part (Range)#
 23711#Trap Box#
@@ -7485,7 +7501,7 @@
 23899#[Not For Sale] Almighty#
 23901#New User Registration Box(110)#
 23919#Kachua's Secret Key#
-23921#Harvest Festival Box#
+23921#Event Reward Box#
 23937#New User Registration Box(1)#
 23938#New User Registration Box(10)#
 23939#New User Registration Box(20)#
@@ -7746,19 +7762,25 @@
 24290#Mechanic Weapon Shadow#
 24291#Geneticist Weapon Shadow#
 24292#Arch Bishop Shadow Weapon#
+24293#Sura Shadow Weapon#
 24294#Guillotine Cross Shadow Weapon#
 24295#Shadow Chaser Weapon Shadow#
 24296#Warlock Shadow Weapon#
 24297#Sorcerer Shadow Weapon#
+24299#Minstrel Shadow Weapon#
+24300#Wanderer Shadow Weapon#
 24301#Rune Knight Shield Shadow#
 24302#Royal Guard Shadow Shield#
 24303#Mechanic Shield Shadow#
 24304#Geneticist Shadow Shield#
 24305#Arch Bishop Shadow Shield#
+24306#Sura Shadow Shield#
 24307#Guillotine Cross Shadow Shield#
 24308#Shadow Chaser Shield Shadow#
 24309#Warlock Shadow Shield#
 24310#Sorcerer Shadow Shield#
+24312#Minstrel Shadow Shield#
+24313#Wanderer Shadow Shield#
 24314#Ninja Shadow Shield#
 24316#Doram Physical Shadow Shield#
 24317#Doram Magical Shadow Shield#
@@ -7774,6 +7796,9 @@
 24327#Sigrun Shadow Shield#
 24332#Critical Shadow Shield#
 24333#Critical Shadow Shoes#
+24334#Magic Compose Shadow Armor#
+24337#Bearer's Shadow Armor II#
+24338#Bearer's Shadow Shoes II#
 24339#Almighty Shadow Earring#
 24340#Almighty Shadow Pandant#
 24343#Blitz Shadow Weapon#
@@ -7930,6 +7955,8 @@
 25231#Suspicious Bottle#
 25232#Cheap Lubricant#
 25233#Cotton Tuft#
+25238#New Ordinary Lubricant#
+25239#New Premium Lubricant#
 25240#Certificate of Independence#
 25245#Small pile of bones#
 25251#Fermented Grapes#
@@ -7995,8 +8022,21 @@
 25456#Warlock Stone (Garment)#
 25464#[Not For Sale]World Moving Ticket#
 25479#Dog Poison Bottle#
+25490#Stalker Stone (Upper)#
+25491#Stalker Stone (Middle)#
+25492#Stalker Stone (Lower)#
+25493#Shadow Chaser Stone (Garment)#
+25494#Mastersmith Stone (Upper)#
+25495#Mastersmith Stone (Middle)#
+25496#Mastersmith Stone (Lower)#
+25497#Mechanic Stone (Garment)#
+25498#Clown Gypsy Stone (Upper)#
+25499#Clown Gypsy Stone (Middle)#
+25500#Clown Gypsy Stone (Lower)#
+25501#Wanderer Minstrel Stone (Garment)#
 25627#Gold Card#
 25736#Jeremy's Beauty Coupon II#
+25793#Inventory Expansion Coupon#
 26100#P.Foxtail II#
 26101#P.Foxtail III#
 26111#Metal Foxtail#
@@ -8048,6 +8088,24 @@
 27169#Payon Soldier Card#
 27211#Sealed Baphomet Card#
 27212#Sealed Maya Card#
+27221#Sealed Gioia Card#
+27249#Arhi Card#
+27250#Dio Anemos Card#
+27251#Geffen Gangster Card#
+27252#Geffen Bully Card#
+27253#Geffen Shoplifter Card#
+27254#Faymont Card#
+27255#Ordre Card#
+27256#Blut Hase Card#
+27257#Kuro Akuma Card#
+27258#Ifodes Card#
+27259#Licheniyes Card#
+27260#Odoric Card#
+27261#Ju Card#
+27262#Dwigh Card#
+27263#Fay Kanavian Card#
+27264#Evil Shadow Card#
+27265#Evil Believer Card#
 28000#Thanos Katar#
 28001#Evil Slayer Ripper Katar#
 28005#Blue Katar#
@@ -8277,6 +8335,18 @@
 29469#High Wizard Stone (Middle)#
 29470#High Wizard Stone (Lower)#
 29471#Warlock Stone (Garment)#
+29477#Stalker Stone (Upper)#
+29478#Stalker Stone (Middle)#
+29479#Stalker Stone (Lower)#
+29480#Shadow Chaser Stone (Garment)#
+29481#Mastersmith Stone (Upper)#
+29482#Mastersmith Stone (Middle)#
+29483#Mastersmith Stone (Lower)#
+29484#Mechanic Stone (Garment)#
+29485#Clown Gypsy Stone (Upper)#
+29486#Clown Gypsy Stone (Middle)#
+29487#Clown Gypsy Stone (Lower)#
+29488#Wanderer Minstrel Stone (Garment)#
 31016#Decorated Evil Tree Card#
 31017#Vicious Cookie Card#
 31018#Evil Dwelling Box Card#
@@ -8354,6 +8424,7 @@
 31371#Costume Sorin Doll Hat#
 31374#Costume Explosion Gum#
 31382#Costume Cat Ears Punkish#
+31385#Costume Gothic Pumpkin Handicraft#
 31386#Costume Survive Orb#
 31387#Costume Jakk#
 31390#Costume Let It Snow#
@@ -8401,6 +8472,8 @@
 31588#Costume SnowFlake Tiara#
 31589#Costume Gold Baphomet Horns#
 31600#Costume Kishu Inu#
+31607#Costume Ear Witch Hat#
+31611#Costume Dark Snake Lord Stole#
 31614#Costume Fox#
 31616#Costume Sleep Sheep#
 31625#Costume Protect Cloth#
@@ -8544,6 +8617,10 @@
 101080#Battle Manual 200 Box#
 101081#Steampunk Scroll#
 101084#Limited Gacha Gift Box#
+101096#Candy Witch Scroll#
+101097#[Scroll] Unlimited Drink#
+101126#[Scroll] Halloween Candy#
+101127#Trick or Treat Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -8572,6 +8649,7 @@
 200148#Stone Coin Package II V.2#
 200149#Stone Coin Package III V.2#
 200159#Sealed Mob Scarf Box#
+200164#(Limited)Silvervine Package (Stone Box15)#
 300000#IDTest Card#
 300209#Sealed Nightmare Amon Ra Card#
 300291#1st Anniversary Card#
@@ -8579,6 +8657,7 @@
 400043#Fallen Angel Hairband#
 400129#Costume Puriku Cap#
 400163#Costume Whale Cap#
+410005#Costume Magic Heir#
 410012#EXP Advicer#
 410048#Costume Tiger#
 410050#Costume Puriku White Tea#
