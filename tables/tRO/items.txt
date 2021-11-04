@@ -3310,6 +3310,7 @@
 5942#Lovegame Hat#
 5944#Bandit Hood#
 5946#Drama Clockwork#
+5966#Kardui Ear#
 5980#Costume Classical Feather Hat#
 6000#Ashes of Darkness#
 6001#Essence of Fire#
@@ -6380,6 +6381,7 @@
 18150#Probation Ranger CrossBow#
 18151#Probation Wanderer&Minstrel Bow#
 18164#Royal Bow#
+18170#Narcissus Bow#
 18504#Anubis Helm#
 18506#Hattah Black#
 18507#Elven Ear#
@@ -7371,6 +7373,8 @@
 23225#[Not For Sale] AGI Biscuit Stick#
 23226#[Not For Sale] INT Biscuit Stick#
 23236#Class Shadow Box (Weapon)#
+23237#Class Shadow Box (Armor)#
+23240#Class Shadow Box (Pendant)#
 23241#Class Shadow Box (Earring)#
 23247#Status Shadow Item Combiner#
 23249#Bearer's Shadow Box#
@@ -7450,6 +7454,7 @@
 23470#Sealed Amon Ra Scroll#
 23471#Mofu Costume Scroll#
 23472#Mofu Costume Scroll2#
+23474#Infinity Shadow Box#
 23475#Unlimited Drink#
 23503#[Not for Sale] 20 Red Potion Box#
 23504#[Not for Sale] 20 Orange Potion Box#
@@ -7701,9 +7706,11 @@
 24220#Fire Bolt Shadow Armor#
 24221#Lightning Bolt Shadow Armor#
 24222#Earth Spike Shadow Armor#
+24223#Enhanced Force Shadow Weapon#
 24224#Force Shadow Weapon#
 24225#Force Shadow Earring#
 24226#Force Shadow Pendant#
+24227#Enhanced Spirit Shadow Weapon#
 24228#Spirit Shadow Weapon#
 24229#Spirit Shadow Earring#
 24230#Spirit Shadow Pendant#
@@ -7767,6 +7774,7 @@
 24295#Shadow Chaser Weapon Shadow#
 24296#Warlock Shadow Weapon#
 24297#Sorcerer Shadow Weapon#
+24298#Ranger Shadow Weapon#
 24299#Minstrel Shadow Weapon#
 24300#Wanderer Shadow Weapon#
 24301#Rune Knight Shield Shadow#
@@ -7779,6 +7787,7 @@
 24308#Shadow Chaser Shield Shadow#
 24309#Warlock Shadow Shield#
 24310#Sorcerer Shadow Shield#
+24311#Ranger Shadow Shield#
 24312#Minstrel Shadow Shield#
 24313#Wanderer Shadow Shield#
 24314#Ninja Shadow Shield#
@@ -7803,6 +7812,7 @@
 24340#Almighty Shadow Pandant#
 24343#Blitz Shadow Weapon#
 24344#Blitz Shadow Armor#
+24386#Infinity Shadow Weapon#
 24393#Physical Shadow Shoes#
 24394#Physical Shadow Shield#
 24395#Physical Shadow Armor#
@@ -8219,6 +8229,7 @@
 28705#Dagger of Crimson#
 28706#Vicious Mind Dagger#
 28726#Probation Shadow Chaser Dagger#
+28744#Madogum#
 28900#Royal Guard Shield#
 28902#Mad Bunny#
 28913#Ultralight Magic Shield#
@@ -8520,6 +8531,7 @@
 31958#Costume Santa Poring Balloon#
 31972#Costume Purificatory Mask#
 32004#Probation Royal Guard Lance#
+32018#Aquatic Spear#
 100000#IDTest Special#
 100054#Shadow Transcendental Time Box#
 100061#[Not For Sale] Red Booster#
@@ -8621,6 +8633,7 @@
 101097#[Scroll] Unlimited Drink#
 101126#[Scroll] Halloween Candy#
 101127#Trick or Treat Scroll#
+101146#Libra Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
