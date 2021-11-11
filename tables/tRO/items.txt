@@ -2434,6 +2434,32 @@
 4668#Trans Spore Card#
 4669#Jungle Mandragora Card#
 4670#Fruit Pom Spider Card#
+4671#Sorcerer Celia Card#
+4672#Sura Chen Card#
+4673#Minstrel Alphoccio Card#
+4674#Guillotine Cross Eremes Card#
+4675#Arch Bishop Margaretha Card#
+4676#Ranger Cecil Card#
+4677#Mechanic Howard Card#
+4678#Warlock Kathryne Card#
+4679#Rune Knight Seyren Card#
+4680#Royal Guard Randel Card#
+4681#Genetic Flamel Card#
+4682#Shadow Chaser Gertie Card#
+4683#Wanderer Trentini Card#
+4684#True Eremes Guile Card#
+4685#True Margaretha Sorin Card#
+4686#True Kathryne Keyron Card#
+4687#True Cecil Damon Card#
+4688#True Howard Alt-Eisen Card#
+4689#True Seyren Windsor Card#
+4690#True Randel Lawrence Card#
+4691#True Flamel Emure Card#
+4692#True Celia Alde Card#
+4693#True Chen Lio Card#
+4694#True Gertie Wie Card#
+4695#True Trentini Card#
+4696#True Alphoccio Basil Card#
 4697#Charleston3 Card#
 4698#Step Card#
 4699#Rock Step Card#
@@ -3755,6 +3781,13 @@
 6803#Shard of Gigantes#
 6804#ORGANIC PUMPKIN#
 6805#INORGANIC PUMPKIN#
+6814#Swordman Soul#
+6815#Merchant Soul#
+6816#Thief Soul#
+6817#Mage Soul#
+6818#Archer Soul#
+6819#Acolyte Soul#
+6820#Energy Debris#
 6821#Solo Troops Badge#
 6824#Laboratory Memory Record#
 6825#Air Purifier Box#
@@ -6626,6 +6659,20 @@
 18962#Panda Balloon#
 18967#Jinn Poring Balloon#
 18968#Demon Blue Poring Bubble#
+18971#Old Rune Circlet#
+18972#Old Mitra#
+18973#Old Driver Band (Red)#
+18974#Old Driver Band (Yellow)#
+18975#Old Shadow Handicraft#
+18976#Old Maestro Song's Hat#
+18977#Old Midas Whisper#
+18978#Old Magic Stone Hat#
+18979#Old Blazing Soul#
+18980#Old Wind Whisper#
+18981#Old Dying Swan#
+18982#Old Bone Circlet#
+18983#Old Casket of Protection#
+18984#Old Camouflage Bunny Hood#
 18993#Flower Hat#
 18997#Runaway Chip#
 19004#Happy Balloon#
@@ -6875,6 +6922,20 @@
 19958#Costume Choir Hat#
 19959#Costume Drooping Argiope#
 19960#Costume Chain Puppet#
+19961#Costume Rune Circlet#
+19962#Costume Mitra#
+19963#Costume Driver Band(Red)#
+19964#Costume Driver Band(Yellow)#
+19965#Costume Shadow Handicraft#
+19966#Costume Minstrel Song's Hat#
+19967#Costume Midas Whisper#
+19968#Costume Magic Stone Hat#
+19969#Costume Blazing Soul#
+19970#Costume Wind Whisper#
+19971#Costume Dying Swan#
+19972#Costume Casket of Protection#
+19973#Costume Bone Circlet#
+19974#Costume Camouflage Bunny Hood#
 19976#Costume Cat Santa Hat#
 19978#Costume Silver Exclamation#
 19982#Costume Santa Hat#
@@ -6984,6 +7045,9 @@
 20349#Costume FlyingGalapago#
 20374#Costume Mechanical Plant Hat#
 20381#Costume Steampunk Hat#
+20391#Costume Silent Executor#
+20392#Costume Sniper Goggle#
+20393#Costume Dip Schmidt Helm#
 20395#Costume Black Witch Hat#
 20396#Costume Nong Tonmai#
 20397#Costume Jakk#
@@ -7036,6 +7100,7 @@
 20516#Costume Wings of Michael#
 20517#Costume Giant Cat Bag#
 20522#Costume Blessings of Soul#
+20525#Costume Bloody Wing#
 20526#Costume Blue Angeling Wing#
 20528#Costume Gold Butterfly Wing#
 20535#Costume: Digital Space#
@@ -7080,6 +7145,8 @@
 20745#Manteau of Mystic Frozen#
 20746#Costume Rudra Wing#
 20747#Manteau of Great Nature#
+20748#Fallen Warrior Manteau#
+20749#Fallen Warrior Manteau#
 20761#Costume Happiness Wings#
 20762#Costume Great Devil Wing#
 20764#Costume Fallen Angel Wing#
@@ -7235,8 +7302,10 @@
 22658#Braised ShortRibs#
 22659#Braised Spareribs#
 22668#Guyak Pudding Box#
+22679#Death's Chest#
 22685#Solo Christmas Gift#
 22686#Solo Cookie#
+22687#Sentimental Fragment#
 22691#Record Fragment#
 22692#Record Fragment#
 22693#Record Fragment#
@@ -7301,6 +7370,7 @@
 23010#Battle Manual 24Hrs.#
 23011#Insurance Bond 24hrs.#
 23012#[Not For Sale] Small Mana Potion#
+23016#Cursed Fragment#
 23023#Unlimited Giant Fly Wing#
 23033#Invisible Box#
 23038#[Not For Sale] White Slim Potion Box#
@@ -7319,6 +7389,7 @@
 23077#Build Up Potion SC#
 23078#Build Up Potion AC#
 23079#Strawberry Cream Cake#
+23080#Cursed Crystal#
 23081#Kunai Scroll of Flame#
 23082#Kunai Scroll of Icicle#
 23083#Kunai Scroll of Wind#
@@ -7901,6 +7972,11 @@
 25121#Job Map#
 25122#Job Map#
 25123#Job Map#
+25127#Silent Energy Particle#
+25128#Weak Energy Particle#
+25129#Unstable Energy Particle#
+25130#Sinister Energy Particle#
+25131#Fallen Energy Particle#
 25132#Pumpkin Deco#
 25133#Dry White Stem#
 25136#Electric Effect (Middle)#
@@ -8285,6 +8361,66 @@
 29055#Reload Stone (Lower)#
 29056#Fixed Casting Stone#
 29057#Kyrie Stone#
+29061#Mettle Lv. 1#
+29062#Mettle Lv. 2#
+29063#Mettle Lv. 3#
+29064#Mettle Lv. 4#
+29065#Mettle Lv. 5#
+29066#Mettle Lv. 6#
+29067#Mettle Lv. 7#
+29068#Mettle Lv. 8#
+29069#Mettle Lv. 9#
+29070#Mettle Lv. 10#
+29071#Magic Essence Lv. 1#
+29072#Magic Essence Lv. 2#
+29073#Magic Essence Lv. 3#
+29074#Magic Essence Lv. 4#
+29075#Magic Essence Lv. 5#
+29076#Magic Essence Lv. 6#
+29077#Magic Essence Lv. 7#
+29078#Magic Essence Lv. 8#
+29079#Magic Essence Lv. 9#
+29080#Magic Essence Lv. 10#
+29081#Acute Lv. 1#
+29082#Acute Lv. 2#
+29083#Acute Lv. 3#
+29084#Acute Lv. 4#
+29085#Acute Lv. 5#
+29086#Acute Lv. 6#
+29087#Acute Lv. 7#
+29088#Acute Lv. 8#
+29089#Acute Lv. 9#
+29090#Acute Lv. 10#
+29091#Master Archer Lv. 1#
+29092#Master Archer Lv. 2#
+29093#Master Archer Lv. 3#
+29094#Master Archer Lv. 4#
+29095#Master Archer Lv. 5#
+29096#Master Archer Lv. 6#
+29097#Master Archer Lv. 7#
+29098#Master Archer Lv. 8#
+29099#Master Archer Lv. 9#
+29100#Master Archer Lv. 10#
+29101#Adamantine Lv. 1#
+29102#Adamantine Lv. 2#
+29103#Adamantine Lv. 3#
+29104#Adamantine Lv. 4#
+29105#Adamantine Lv. 5#
+29106#Adamantine Lv. 6#
+29107#Adamantine Lv. 7#
+29108#Adamantine Lv. 8#
+29109#Adamantine Lv. 9#
+29110#Adamantine Lv. 10#
+29111#Affection Lv. 1#
+29112#Affection Lv. 2#
+29113#Affection Lv. 3#
+29114#Affection Lv. 4#
+29115#Affection Lv. 5#
+29116#Affection Lv. 6#
+29117#Affection Lv. 7#
+29118#Affection Lv. 8#
+29119#Affection Lv. 9#
+29120#Affection Lv. 10#
 29142#Electric Effect#
 29143#Green Floor Effect#
 29144#Shrink Effect#
@@ -8400,6 +8536,7 @@
 31172#Costume Roast Memory#
 31177#Costume Tail Hat#
 31178#Costume Flame Muffler#
+31179#Costume Wolf Masquerade#
 31186#Costume Black Cat#
 31189#Costume Red Cat Ears Cape#
 31195#Costume Chocolate Mini Hat#
@@ -8435,6 +8572,7 @@
 31371#Costume Sorin Doll Hat#
 31374#Costume Explosion Gum#
 31382#Costume Cat Ears Punkish#
+31384#Costume Fake Ears#
 31385#Costume Gothic Pumpkin Handicraft#
 31386#Costume Survive Orb#
 31387#Costume Jakk#
@@ -8634,6 +8772,7 @@
 101126#[Scroll] Halloween Candy#
 101127#Trick or Treat Scroll#
 101146#Libra Scroll#
+101160#DEF Scroll Box#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -8694,6 +8833,7 @@
 480120#Guardian Soul#
 480126#Costume Giant Shark#
 480127#Costume Hooked Straw Hat#
+480131#Costume Swirling Flame#
 490033#Fallen Angel's Tear#
 490147#1st Anniversary Ring#
 500000#IDTest weapon#
