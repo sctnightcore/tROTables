@@ -3795,6 +3795,7 @@
 6827#Complete Component#
 6828#Gravity Device#
 6832#Mysterious Part#
+6833#(Limited) Token of Ziegfried#
 6834#Legendary Fur#
 6835#Legendary Mane#
 6839#Gold Choco Coin#
@@ -6361,6 +6362,7 @@
 17330#CostumeBox4#
 17448#Toybox Scroll#
 17461#Frozen Scroll#
+17467#(Limited) Token of Siegfried (50 ea)#
 17470#Costume Helm Set#
 17476#Costama GirlsSelection2#
 17481#Costama Flower Garden#
@@ -6844,6 +6846,7 @@
 19707#Costume Polar Bear Cap#
 19709#Costume Outfit Yellow Ribbon#
 19710#Costume Wings Of Victory#
+19714#Costume Lady Tanee Doll#
 19716#Costume Alice Doll#
 19718#Costume Outfit Gothic Headdress#
 19721#Costume Outfit Darkness Helm#
@@ -8785,6 +8788,8 @@
 101146#Libra Scroll#
 101160#DEF Scroll Box#
 101175#Magical Scroll#
+101195#(Limited) HE Bubble Gum#
+101196#(Limited) HE Bubble Gum Box#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
